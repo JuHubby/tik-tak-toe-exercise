@@ -1,5 +1,7 @@
 # TIK-TAK-TOE GAME
 
+![alt text](image.png)
+
 ## Description of the project:
  This is a classic game. Tic-Tac-Toe is a two-player game where players take turns marking spaces in a 3x3 grid with either an "X" or an "O." The objective is to be the first to form a horizontal, vertical, or diagonal line of three of your own marks. This game is in its first stages, I got a bug getting the winner sing for the player 0. This bug i want to fix in next oportunity. If youy can do it please let me know how you did it. I will love your imput.
 
